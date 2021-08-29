@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/edwardoh/EdwardSaverCom/_apis/build/status/hyokunoh.pipelines-java?branchName=master)](https://dev.azure.com/edwardoh/EdwardSaverCom/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
